@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_inorder - This Goes through a binary tree using in-order traversal.
+ * binary_tree_inorder - Goes through binary tree using in-order traversal.
  * @new_tree: A pointer to the root node of the tree to traversed.
  * @func: A pointer to a function to call for each new_node.
  */
